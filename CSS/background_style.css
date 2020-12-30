@@ -1,0 +1,52 @@
+.hatter {
+				background-image: url("books_2.jpg");
+        background-size: cover;
+				background-repeat: no-repeat repeat;
+			}
+.section1 {
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  text-shadow: 2px 2px #663300;
+  color: white;
+font-size: 35px;
+
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+.main_page_div {
+  width: 400px;
+  box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: left;
+
+margin: auto auto 20px 100px;
+  }
+.main_page_icon {
+  margin: 10px 33px 10px 22px;
+    }
+
+.lablec {
+			font-family: 'Work Sans', sans-serif;
+      color: white;
+      text-shadow: 1px 2px 3px black;
+			font-size: 20px;
+			text-align: center;
+			bottom: 0px;
+			}
+.vizkozepre {
+			 position: absolute;
+			 left: 50%;
+			 transform: translate(-50%, 0);
+			 margin-right: -50%;
+       margin-bottom: auto;
+			}
+.bottom_section {
+}
+.main_page_div img:hover {
+  transform: scale(1.1,1.1);}
+
+.only_text{float:right}
+
+p {font-family: 'Work Sans', sans-serif;
+color: white;
+text-shadow: 1px 2px 3px black;
+font-size: 30px;}
